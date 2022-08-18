@@ -4,6 +4,35 @@
   
     
     <entry>
+      <title>IDEA复制实例开启多个服务</title>
+      <link href="/coderbin/6926ecac.html"/>
+      <url>/coderbin/6926ecac.html</url>
+      
+        <content type="html"><![CDATA[<h2 id="1-找到IDEA下的Services并点开"><a href="#1-找到IDEA下的Services并点开" class="headerlink" title="1.找到IDEA下的Services并点开"></a>1.找到IDEA下的Services并点开</h2><p><img src="https://xingqiu-tuchuang-1256524210.cos.ap-shanghai.myqcloud.com/359/image-20220818220725863.png" alt="image-20220818220725863"></p><h3 id="1-1-没有Services"><a href="#1-1-没有Services" class="headerlink" title="1.1 没有Services"></a>1.1 没有Services</h3><p>点击View-&gt;Tool Windows-&gt;Services</p><p><img src="https://xingqiu-tuchuang-1256524210.cos.ap-shanghai.myqcloud.com/359/image-20220818220816158.png" alt="image-20220818220816158"></p><h2 id="2-点击＋号选择Run-Configuration-Type"><a href="#2-点击＋号选择Run-Configuration-Type" class="headerlink" title="2.点击＋号选择Run Configuration Type"></a>2.点击＋号选择Run Configuration Type</h2><p><img src="https://xingqiu-tuchuang-1256524210.cos.ap-shanghai.myqcloud.com/359/image-20220818220922299.png" alt="image-20220818220922299"></p><h2 id="3-选择Spring-Boot"><a href="#3-选择Spring-Boot" class="headerlink" title="3.选择Spring Boot"></a>3.选择Spring Boot</h2><p><img src="https://xingqiu-tuchuang-1256524210.cos.ap-shanghai.myqcloud.com/359/image-20220818221042749.png" alt="image-20220818221042749"></p><p>这时你就可以看到你的项目了</p><p><img src="https://xingqiu-tuchuang-1256524210.cos.ap-shanghai.myqcloud.com/359/image-20220818221116162.png" alt="image-20220818221116162"></p><p>接下来我们需要复制该实例并且改变端口启动</p><h2 id="4-右键选择Copy-Configuration"><a href="#4-右键选择Copy-Configuration" class="headerlink" title="4.右键选择Copy Configuration"></a>4.右键选择Copy Configuration</h2><p><img src="https://xingqiu-tuchuang-1256524210.cos.ap-shanghai.myqcloud.com/359/image-20220818221216286.png" alt="image-20220818221216286"></p><h2 id="5-在对应位置修改名字和端口"><a href="#5-在对应位置修改名字和端口" class="headerlink" title="5.在对应位置修改名字和端口"></a>5.在对应位置修改名字和端口</h2><blockquote><p>-Dserver.port&#x3D;xxxx</p></blockquote><p><img src="https://xingqiu-tuchuang-1256524210.cos.ap-shanghai.myqcloud.com/359/image-20220818221337986.png" alt="image-20220818221337986"></p><h2 id="6-确认后就可以看到有两个实例了"><a href="#6-确认后就可以看到有两个实例了" class="headerlink" title="6.确认后就可以看到有两个实例了"></a>6.确认后就可以看到有两个实例了</h2><p><img src="https://xingqiu-tuchuang-1256524210.cos.ap-shanghai.myqcloud.com/359/image-20220818221424636.png" alt="image-20220818221424636"></p><h2 id="7-启动"><a href="#7-启动" class="headerlink" title="7.启动"></a>7.启动</h2><p>一个运行在8080</p><p><img src="https://xingqiu-tuchuang-1256524210.cos.ap-shanghai.myqcloud.com/359/image-20220818221501270.png" alt="image-20220818221501270"></p><p>一个运行在8081</p><p><img src="https://xingqiu-tuchuang-1256524210.cos.ap-shanghai.myqcloud.com/359/image-20220818221537131.png" alt="image-20220818221537131"></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 开发工具 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> IDEA </tag>
+            
+            <tag> 开发工具 </tag>
+            
+            <tag> 微服务 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Java8新特性</title>
       <link href="/coderbin/397c083a.html"/>
       <url>/coderbin/397c083a.html</url>
